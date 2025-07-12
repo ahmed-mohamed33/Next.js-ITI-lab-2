@@ -10,7 +10,6 @@ export default function LoginPage() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // Handle login logic here
     console.log('Login attempt:', formData);
   };
 
