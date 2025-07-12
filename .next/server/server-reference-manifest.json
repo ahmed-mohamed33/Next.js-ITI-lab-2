@@ -1,5 +1,50 @@
 {
-  "node": {},
+  "node": {
+    "40184c8c988a4cacaf5c5e0d63cd83bba0d14a47e4": {
+      "workers": {
+        "app/users/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5Cusers%5C%5Cpage.js%22%2C%5B%7B%22id%22%3A%2240184c8c988a4cacaf5c5e0d63cd83bba0d14a47e4%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5C_lib%5C%5Cactions%5C%5CuserActions.js%22%2C%5B%7B%22id%22%3A%224041c5f49e70d205f5b9963de1c32fa41668eefe2b%22%2C%22exportedName%22%3A%22deleteUser%22%7D%2C%7B%22id%22%3A%224067f05c13c9b8afd0932b1029f614a78f06b5d1f8%22%2C%22exportedName%22%3A%22createUser%22%7D%2C%7B%22id%22%3A%22603e85fe7ee238281e344b6f4748330953dd76e431%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/users/page": "rsc"
+      }
+    },
+    "4041c5f49e70d205f5b9963de1c32fa41668eefe2b": {
+      "workers": {
+        "app/users/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5Cusers%5C%5Cpage.js%22%2C%5B%7B%22id%22%3A%2240184c8c988a4cacaf5c5e0d63cd83bba0d14a47e4%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5C_lib%5C%5Cactions%5C%5CuserActions.js%22%2C%5B%7B%22id%22%3A%224041c5f49e70d205f5b9963de1c32fa41668eefe2b%22%2C%22exportedName%22%3A%22deleteUser%22%7D%2C%7B%22id%22%3A%224067f05c13c9b8afd0932b1029f614a78f06b5d1f8%22%2C%22exportedName%22%3A%22createUser%22%7D%2C%7B%22id%22%3A%22603e85fe7ee238281e344b6f4748330953dd76e431%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/users/page": "rsc"
+      }
+    },
+    "4067f05c13c9b8afd0932b1029f614a78f06b5d1f8": {
+      "workers": {
+        "app/users/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5Cusers%5C%5Cpage.js%22%2C%5B%7B%22id%22%3A%2240184c8c988a4cacaf5c5e0d63cd83bba0d14a47e4%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5C_lib%5C%5Cactions%5C%5CuserActions.js%22%2C%5B%7B%22id%22%3A%224041c5f49e70d205f5b9963de1c32fa41668eefe2b%22%2C%22exportedName%22%3A%22deleteUser%22%7D%2C%7B%22id%22%3A%224067f05c13c9b8afd0932b1029f614a78f06b5d1f8%22%2C%22exportedName%22%3A%22createUser%22%7D%2C%7B%22id%22%3A%22603e85fe7ee238281e344b6f4748330953dd76e431%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/users/page": "rsc"
+      }
+    },
+    "603e85fe7ee238281e344b6f4748330953dd76e431": {
+      "workers": {
+        "app/users/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5Cusers%5C%5Cpage.js%22%2C%5B%7B%22id%22%3A%2240184c8c988a4cacaf5c5e0d63cd83bba0d14a47e4%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CAhmed%5C%5CDocuments%5C%5CRainmeter%5C%5CSkins%5C%5CDroptop%20Folders%5C%5CCustomFolder1%5C%5CDesktop%5C%5CCLient%20side%20tech%20labs%5C%5CNext%5C%5CNext.js%20ITI%20lab-2%5C%5Capp%5C%5C_lib%5C%5Cactions%5C%5CuserActions.js%22%2C%5B%7B%22id%22%3A%224041c5f49e70d205f5b9963de1c32fa41668eefe2b%22%2C%22exportedName%22%3A%22deleteUser%22%7D%2C%7B%22id%22%3A%224067f05c13c9b8afd0932b1029f614a78f06b5d1f8%22%2C%22exportedName%22%3A%22createUser%22%7D%2C%7B%22id%22%3A%22603e85fe7ee238281e344b6f4748330953dd76e431%22%2C%22exportedName%22%3A%22updateUser%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/users/page": "rsc"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "DeI/2l1K8lrqbCpppSSXdsq2oLlyuaxcudOfI3Qrosc="
 }

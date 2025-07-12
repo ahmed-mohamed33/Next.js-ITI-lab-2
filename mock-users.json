@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "phone": "+1 (555) 123-4567",
+      "website": "johndoe.com",
+      "company": {
+        "name": "Tech Solutions Inc.",
+        "catchPhrase": "Innovative solutions for tomorrow's challenges",
+        "bs": "B2B enterprise solutions"
+      },
+      "address": {
+        "street": "123 Main Street",
+        "suite": "Suite 405",
+        "city": "New York",
+        "zipcode": "10001",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
+      "image": null,
+      "imagePublicId": null
+    },
+    {
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "jane.smith@example.com",
+      "phone": "+1 (555) 987-6543",
+      "website": "janesmith.dev",
+      "company": {
+        "name": "Creative Designs Co.",
+        "catchPhrase": "Bringing your visions to life",
+        "bs": "UI/UX design services"
+      },
+      "address": {
+        "street": "456 Park Avenue",
+        "suite": "Apt 12B",
+        "city": "San Francisco",
+        "zipcode": "94105",
+        "geo": {
+          "lat": "37.7749",
+          "lng": "-122.4194"
+        }
+      },
+      "image": null,
+      "imagePublicId": null
+    },
+    {
+      "name": "Ahmed Hassan",
+      "username": "ahassan",
+      "email": "ahmed.hassan@example.com",
+      "phone": "+20 (100) 123-4567",
+      "website": "ahmedhassan.tech",
+      "company": {
+        "name": "Digital Solutions Egypt",
+        "catchPhrase": "Bridging technology gaps",
+        "bs": "Software development and consulting"
+      },
+      "address": {
+        "street": "789 Nile Street",
+        "suite": "Floor 15",
+        "city": "Cairo",
+        "zipcode": "11511",
+        "geo": {
+          "lat": "30.0444",
+          "lng": "31.2357"
+        }
+      },
+      "image": null,
+      "imagePublicId": null
+    },
+    {
+      "name": "Sarah Johnson",
+      "username": "sjohnson",
+      "email": "sarah.j@example.com",
+      "phone": "+1 (555) 234-5678",
+      "website": "sarahj.design",
+      "company": {
+        "name": "Design Masters LLC",
+        "catchPhrase": "Where creativity meets functionality",
+        "bs": "Graphic design and branding"
+      },
+      "address": {
+        "street": "321 Design Boulevard",
+        "suite": "Studio 7",
+        "city": "Los Angeles",
+        "zipcode": "90001",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
+      "image": null,
+      "imagePublicId": null
+    },
+    {
+      "name": "Mohamed Ali",
+      "username": "mali",
+      "email": "mohamed.ali@example.com",
+      "phone": "+20 (111) 987-6543",
+      "website": "mohamedali.net",
+      "company": {
+        "name": "Smart Tech Solutions",
+        "catchPhrase": "Leading the digital transformation",
+        "bs": "IT consulting and solutions"
+      },
+      "address": {
+        "street": "456 Smart Street",
+        "suite": "Office 23",
+        "city": "Alexandria",
+        "zipcode": "21511",
+        "geo": {
+          "lat": "31.2001",
+          "lng": "29.9187"
+        }
+      },
+      "image": null,
+      "imagePublicId": null
+    }
+  ]
+} 

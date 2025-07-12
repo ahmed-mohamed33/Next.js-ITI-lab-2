@@ -1,4 +1,4 @@
-// File: C:\Users\Ahmed\Documents\Rainmeter\Skins\Droptop Folders\CustomFolder1\Desktop\CLient side tech labs\Next\Lab1 - Copy\app\users\page.js
+// File: C:\Users\Ahmed\Documents\Rainmeter\Skins\Droptop Folders\CustomFolder1\Desktop\CLient side tech labs\Next\Next.js ITI lab-2\app\users\page.js
 import * as entry from '../../../../app/users/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
